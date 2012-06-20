@@ -1,8 +1,8 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name        = 'ruby-coco-source'
-  s.version     = '0.7.1'
-  s.date        = '2012-02-29'
+  s.version     = '0.7.2'
+  s.date        = '2012-06-20'
   s.authors     = ['Jacob Swanner']
   s.email       = ['jacob@jacobswanner.com']
   s.homepage    = 'https://github.com/jswanner/ruby-coco-source'
