@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name        = 'ruby-coco-source'
-  s.version     = '0.7.3b'
+  s.version     = '0.9.1'
   s.date        = '2012-06-20'
   s.authors     = ['Jacob Swanner', 'Satoshi Murakami']
   s.email       = ['jacob@jacobswanner.com']
