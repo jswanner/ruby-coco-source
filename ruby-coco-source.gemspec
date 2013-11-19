@@ -6,6 +6,7 @@ Gem::Specification.new do |s|
   s.authors     = ['Jacob Swanner', 'Satoshi Murakami']
   s.email       = ['jacob@jacobswanner.com']
   s.homepage    = 'https://github.com/jswanner/ruby-coco-source'
+  s.license     = 'MIT'
   s.summary     = 'Coco source for ruby-coco gem.'
   s.description = 'Coco is a CoffeeScript dialect that aims to be more radical and practical.'
   s.files       = [
